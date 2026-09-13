@@ -3,7 +3,7 @@
 **Resposta:** o index.html vai estruturar a página, bem como o conteúdo. É onde organizamos os elementos que o usuário irá visualizar(menu, títulos, texto etc).
 o style.css será o resposável por por estilizar a página. Cores, fontes, alinhamentos etc. 
 ## Atividade 2
-**Resposta:** (<!DOCTYPE html>) declara que utilizaremos o HTML5.
+**Resposta:** <!D O C T Y P E h t m l> declara que utilizaremos o HTML5.
 ## Atividade 3
 **Resposta:** "<title>Meu Projeto Web</title>" fará aparecer o título da página na aba do navegador.
 ## Atividade 4
